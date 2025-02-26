@@ -1,0 +1,6 @@
+{
+    "ConnectionStrings": {
+      "DefaultConnection": "Server=tcp:grupa1vsb.database.windows.net,1433;Initial Catalog=grupa1db;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;Authentication=Active Directory Default;"
+    }
+  }
+  
